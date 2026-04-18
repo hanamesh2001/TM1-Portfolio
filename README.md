@@ -20,7 +20,4 @@ TM1 Developer with experience in Support, Development and TM1 Infrastructure .
 ### 2. Automation Processes
 - Built process to delete the backup folder.
 - Built process to detect dump files and move to other drive.
-## Repository Structure
-- TI-Processes: Contains TurboIntegrator scripts
-- Rules: TM1 rule files
-- Documentation: Explanation of each project
+
