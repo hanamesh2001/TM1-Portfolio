@@ -1,10 +1,26 @@
-# TM1-Portfolio
+# TM1 / IBM Planning Analytics Portfolio
 
-IBM Planning Analytics for Excel (PAX or PAfE)
-Planning Analytics Workspace (PAW)
-Planning Analytics
-SQL
-TM1py : Python
-Cube creation
-TI processes
-Rules for calculations
+## About Me
+TM1 Developer with experience in Support, Development and TM1 Infrastructure .
+
+## Skills
+- TurboIntegrator (TI)
+- TM1 Rules
+- Security (Cell & Dimension)
+- Performance Optimization
+- SQL
+- TM1py
+
+## Projects
+
+### 1. Version Copy
+- A version is basically a scenario of data
+- Copying data from one version to another inside a cube
+
+### 2. Automation Processes
+- Built process to delete the backup folder.
+- Built process to detect dump files and move to other drive.
+## Repository Structure
+- TI-Processes: Contains TurboIntegrator scripts
+- Rules: TM1 rule files
+- Documentation: Explanation of each project
